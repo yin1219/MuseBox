@@ -1,0 +1,5 @@
+{
+  "name": "MuseBox - 靈感卡片盒",
+  "description": "一個互動式的靈感管理工具，讓您可以建立多個主題卡片盒，並透過抽卡動畫獲得隨機靈感。內建台灣財經記者專用範例，並整合 Gemini AI 協助發想。",
+  "requestFramePermissions": []
+}
